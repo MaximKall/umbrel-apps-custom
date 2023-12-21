@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: prowlarr
+id: custom-prowlarr
 category: media
 name: Prowlarr
 version: "0.4.4-nightly-build-2"
@@ -9,7 +9,6 @@ description: >-
 developer: Prowlarr
 website: https://prowlarr.com/
 dependencies:
-  - transmission
 repo: https://github.com/Prowlarr/Prowlarr
 support: https://github.com/Prowlarr/Prowlarr/issues
 port: 9696
