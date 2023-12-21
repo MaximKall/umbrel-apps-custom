@@ -1,4 +1,4 @@
-# Umbrel App Framework
+# Umbrel App Framework but better
 
 If you can code in any language, you already know how to develop an app for Umbrel. There is no restriction on the kind of programming languages, frameworks or databases that you can use. Apps run inside isolated Docker containers, and the only requirement (for now) is that they should have a web-based UI.
 
